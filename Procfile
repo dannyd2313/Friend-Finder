@@ -1,0 +1,1 @@
+web: java -jar target/Friend-Finder-1.0.jar
